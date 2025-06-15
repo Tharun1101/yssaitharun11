@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science Projects<br><br>🌱 I’m currently learning Frameworks, courses etc.<br>💬 Ask me about Web development, Python and Data Science<br>📫 How to reach me yssaitharun11@outlook.com<br>👨‍💻 All of my projects are available at portfolio link<br>📝 I regularly write articles on blog link<br>📄 Know about my experiences resume link<br>⚡ Fun fact I think I am funny
+🔭 I’m currently working on Data Science Projects<br><br>🌱 I’m currently learning Frameworks, courses etc.<br>💬 Ask me about Web development, Python and Data Science<br>📫 How to reach me yeluri.eds62@iiitb.net<br>👨‍💻 All of my projects are available at portfolio link<br>📝 I regularly write articles on blog link<br>📄 Know about my experiences resume link<br>⚡ Fun fact I think I am funny
 
 
 ## 🌐 Socials:
