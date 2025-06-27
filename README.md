@@ -40,23 +40,23 @@
   Exploratory data analysis of customer behavior and feature correlations in credit card data.  
   ![Stars](https://img.shields.io/github/stars/Tharun1101/Credit-card-EDA-Case_study?style=social)  
  
-- 🛍️ [**Fashion Search Engine using AI**](https://github.com/Tharun1101/Fashion_Search_AI_Sai_Tharun)  
+- 🛍️ [**Fashion Search Engine using AI**](https://github.com/Tharun1101/Data_Science_AI_Projects/tree/main/Fashion_Search_AI_Sai_Tharun)  
   Deep learning-based visual similarity model for fashion item image search.  
   ![Stars](https://img.shields.io/github/stars/Tharun1101/Fashion_Search_AI_Sai_Tharun?style=social)
 
-- 🎯 [**Lead Scoring System (Marketing Analytics)**](https://github.com/Tharun1101/Leadscoring_casestudy--main)  
+- 🎯 [**Lead Scoring System (Marketing Analytics)**](https://github.com/Tharun1101/Data_Science_AI_Projects/tree/main/Leadscoring_casestudy)  
   Machine learning model to score and prioritize sales leads based on conversion likelihood.  
   ![Stars](https://img.shields.io/github/stars/Tharun1101/Leadscoring_casestudy--main?style=social)
 
-- 🎫 [**RSVP Event Data Analysis**](https://github.com/Tharun1101/RSVP_case_study)  
+- 🎫 [**RSVP Event Data Analysis**](https://github.com/Tharun1101/Data_Science_AI_Projects/tree/main/RSVP_case_study)  
   EDA and feature analysis on RSVP event attendance and user behavior.  
   ![Stars](https://img.shields.io/github/stars/Tharun1101/RSVP_case_study?style=social)
 
-- ✋ [**Gesture Recognition using Deep Learning**](https://github.com/Tharun1101/Gesture_Recognition__DL__Sai_Tharun)  
+- ✋ [**Gesture Recognition using Deep Learning**](https://github.com/Tharun1101/Data_Science_AI_Projects/tree/main/Gesture_Recognition__DL__Sai_Tharun)  
   Real-time gesture recognition using CNN and OpenCV.  
   ![Stars](https://img.shields.io/github/stars/Tharun1101/Gesture_Recognition__DL__Sai_Tharun?style=social)
 
-- 🔍 [**Credit Card Fraud Detection (Capstone 2024)**](https://github.com/Tharun1101/Credit_Card_Fraud_Detection_Capstone_Project_2024)  
+- 🔍 [**Credit Card Fraud Detection (Capstone 2024)**](https://github.com/Tharun1101/Data_Science_AI_Projects/tree/main/Capstone%20-%20Credit%20Card%20Fraud%20Detection)  
   Built a classification model to detect fraudulent transactions in financial datasets.  
   ![Stars](https://img.shields.io/github/stars/Tharun1101/Credit_Card_Fraud_Detection_Capstone_Project_2024?style=social)
 
