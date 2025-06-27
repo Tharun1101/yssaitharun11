@@ -36,7 +36,7 @@
 
 ## 🚀 Projects
 
-- 💳 [**Credit Card Customer Analysis (EDA Case Study)**](https://github.com/Tharun1101/Credit-card-EDA-Case_study)  
+- 💳 [**Credit Card Customer Analysis (EDA Case Study)**](https://github.com/Tharun1101/Data_Science_AI_Projects/tree/main/Credit-card-EDA-Case_study)  
   Exploratory data analysis of customer behavior and feature correlations in credit card data.  
   ![Stars](https://img.shields.io/github/stars/Tharun1101/Credit-card-EDA-Case_study?style=social)  
  
